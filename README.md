@@ -78,13 +78,7 @@ A lo largo del bootcamp se construyó una API para la gestión de estudiantes y 
 | JWT | Autenticación basada en tokens |
 | Nodemon | Recarga automática en desarrollo |
 
-## 📈 Próximos pasos / posibles mejoras
-
-- Agregar validaciones más robustas en los endpoints
-- Documentar la API (por ejemplo, con Swagger)
-- Agregar pruebas automatizadas
-- Manejo de roles y permisos (por ejemplo, admin vs. profesor)
 
 ## 👤 Autor
 
-Proyecto desarrollado como parte del **Bootcamp de Express**.
+Proyecto desarrollado como parte del **Desarrollo de Clases**💥​.
